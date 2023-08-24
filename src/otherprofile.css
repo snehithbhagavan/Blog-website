@@ -1,0 +1,21 @@
+.top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border-bottom:1px solid gray;
+    margin-bottom:20px;
+    width:500px;
+}
+
+.follow_button{
+    padding:5px 10px;
+    background-color:green;
+    color:white;
+    border:1px solid green;
+    border-radius:10px;
+}
+
+
+
+
+

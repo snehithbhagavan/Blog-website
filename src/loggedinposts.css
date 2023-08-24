@@ -1,0 +1,19 @@
+input[type=search]{
+    border-radius:20px;
+    margin-left:100px;
+    background-color:rgb(235, 234, 234);
+    padding:10px 20px;
+    margin-top:20px;
+    border:1px solid black;
+    font-size:15px;
+}
+
+.sortbox{
+    border-radius:10px;
+    margin-left:100px;
+    background-color:rgb(235, 234, 234);
+    padding:10px 20px;
+    margin-top:20px;
+    border:1px solid black;
+    font-size:15px; 
+}
